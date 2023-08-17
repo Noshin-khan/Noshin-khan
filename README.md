@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on C++<br>🌱 I’m currently learning Kava<br>💬 Ask me about C,C++,Java.</p>
+<p align="left">🔭 I’m currently working on C++<br>🌱 I’m currently learning Java<br>💬 Ask me about C,C++,Java.</p>
 
 ###
 
