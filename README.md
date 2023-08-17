@@ -47,6 +47,14 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Noshin-khan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noshin-khan&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noshin-khan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Noshin-khan&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!--
 **Noshin-khan/Noshin-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
